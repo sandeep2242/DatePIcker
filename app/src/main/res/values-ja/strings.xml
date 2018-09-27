@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usernameHInt">ユーザーネームを入力してください</string>
+    <string name="passHInt">パスワードを入力する</string>
+    <string name="login">ログイン</string>
+</resources>

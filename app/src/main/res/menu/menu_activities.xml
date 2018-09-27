@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/age"
+        android:title="Age" />
+
+    <item
+        android:id="@+id/ymd"
+        android:title="Y/M/D" />
+
+    <item
+        android:id="@+id/list"
+        android:title="List View" />
+    <item
+        android:id="@+id/login"
+        android:title="Login" />
+
+
+</menu>

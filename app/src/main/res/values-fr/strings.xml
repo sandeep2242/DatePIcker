@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usernameHInt">Saisissez votre nom d\'utilisateur</string>
+    <string name="passHInt">Entrer le mot de passe</string>
+    <string name="login">s\'identifier</string>
+</resources>

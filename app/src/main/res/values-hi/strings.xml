@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usernameHInt">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="passHInt">पास वर्ड दर्ज करें</string>
+    <string name="login">लॉग इन करें</string>
+</resources>

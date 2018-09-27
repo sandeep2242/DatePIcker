@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FlipKart</string>
+    <string name="usernameHInt">Enter Username</string>
+    <string name="passHInt">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="interText">In Earth\'s future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine),
+        a brilliant NASA physicist, is working on plans to save mankind by transporting Earth\'s population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey)
+        and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.</string>
+    <string name="darkKnight">With the help of allies Lt. Jim Gordon (Gary Oldman)and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale)
+        has been able to keep a tight lid on crime in Gotham City.
+        But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.</string>
+    <string name="inception">Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people\'s dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone\'s mind.
+    If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.</string>
+    <string name="gravity">
+        Dr. Ryan Stone (Sandra Bullock) is a medical engineer on her first shuttle mission. Her commander is veteran astronaut Matt Kowalsky (George Clooney), helming his last flight before retirement. Then, during a routine space walk by the pair, disaster strikes: The shuttle is destroyed, leaving Ryan and Matt stranded in deep space with no link to Earth and no hope of rescue. As fear turns to panic, they realize that the only way home may be to venture further into space.
+    </string>
+    <string name="title_activity_navigation">NAvigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Rs">\u20B9</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
